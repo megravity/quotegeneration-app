@@ -1,0 +1,16 @@
+.quote-container {
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    margin: 15rem auto;
+}
+
+.quote-container h2,
+.quote-container p {
+    margin: 0;
+    margin-bottom: 1.5rem;
+}
+
+.quote-container button {
+    margin-bottom: 0.5rem;
+}

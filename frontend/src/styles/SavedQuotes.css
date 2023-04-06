@@ -1,0 +1,16 @@
+.quotes {
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin: 0 auto;
+}
+
+.quote {
+    border: 2px solid rgba(255, 255, 255, 0.87);
+    border-radius: 8px;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    width: 14vw;
+    margin: 0 auto;
+}
